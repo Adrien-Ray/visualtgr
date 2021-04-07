@@ -21,6 +21,7 @@
     <li>git checkout -b [nom de la branche] : clone, nome et se positionner sur new branche</li>
     <li>git merge [nom de la branche] : fusionne la branche nommée avec la branche sur laquelle on est positionné</li>
 
+    a
 </ul>
 
 
