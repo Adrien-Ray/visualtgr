@@ -1,4 +1,4 @@
 # init-gitflow
 ## etape 1 : 
-Adrien: arborescence
+Adrien: arborescence + remaniment du repo
 Etienne: zooning
