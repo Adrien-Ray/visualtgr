@@ -18,8 +18,10 @@
 
     <li>git branch [nom de la branche]: création d'une nouvelle branche à partir de celle sur laquelle on est positionné</li>
     <li>git checkout [nom de la branche] : se positionner sur telle branche</li>
+    <li>git checkout -b [nom de la branche] : clone, nome et se positionner sur new branche</li>
     <li>git merge [nom de la branche] : fusionne la branche nommée avec la branche sur laquelle on est positionné</li>
 
+    a
 </ul>
 
 
