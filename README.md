@@ -4,5 +4,11 @@
     - arborescence
     - remaniment du repo git et gestion branches
 - Etienne:
-    - zooning
-    - wireframe
+    - zooning mobile
+    - wireframe mobile
+## etape 2 :
+- Adrien: 
+    - maquette desktop et mobile
+- Etienne:
+    - zooning desktop
+    - wireframe desktop
