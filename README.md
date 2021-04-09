@@ -9,6 +9,7 @@
 ## etape 2 :
 - Adrien: 
     - meta structure, includes et link des fichiers
+    - logo
 - Etienne:
     - zooning desktop
     - wireframe desktop
