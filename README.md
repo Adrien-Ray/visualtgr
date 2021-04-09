@@ -8,7 +8,7 @@
     - wireframe mobile
 ## etape 2 :
 - Adrien: 
-    - maquette desktop et mobile
+    - meta structure, includes et link des fichiers
 - Etienne:
     - zooning desktop
     - wireframe desktop
