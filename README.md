@@ -13,3 +13,9 @@
 - Etienne:
     - zooning desktop
     - wireframe desktop
+## etape 3 :
+- Adrien:
+    - mockup mobile home (photoshop)
+    - mockup mobile articles (photoshop)
+    - mockup desktop home (photoshop)
+    - mockup desktop articles (photoshop)
