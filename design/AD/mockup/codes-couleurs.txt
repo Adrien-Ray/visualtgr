@@ -1,0 +1,11 @@
+fond:  #191B18
+titre1:#FF5600
+TITRE2 et text:#EA7235
+fond-footer:
+
+footer:
+ - contact
+ - vers haut de page
+ - lien vers page credits
+ - lien vers blog d'origine
+ - 
