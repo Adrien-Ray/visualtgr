@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'pixeloperator';
+    src: url('PixelOperator.ttf');
+  }
+body{
+    font-family: 'pixeloperator';
+}
+a{
+    text-decoration: none;
+}
+/* RELATIF A LA PAGE TEST - INUTIL AU RESTE*/
+.backdark{
+    background-color: #131910;
+    padding:3rem;
+}
+/* FIN RELATIF A LA PAGE TEST - INUTIL AU RESTE*/
+/* ELEMENTS (RELATIF A LA PAGE TEST) */
+    /* button1 */
+    a.button1{
+        color:#ea7235;
+        border: 2px solid #ff5600;
+        border-radius: 5px;
+        padding:0.2rem 1rem;
+        font-size: 1.5rem;
+    }
+    a.button1:hover{
+        color:black;
+        background-color: #ea7235;
+        border: 2px solid #ff5600;
+    }
+    /* fin button1 */
+/* FIN ELEMENTS (RELATIF A LA PAGE TEST) */
