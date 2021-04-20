@@ -1,8 +1,16 @@
 /* RELATIF A LA PAGE TEST - INUTIL AU RESTE*/
-.backdark{
+.backdark, #backlight{
     background-color: #131910;
     padding:3rem;
     margin:1px;
+}
+.backlight{
+    background-color: #191b18;
+    border:1px solid red;
+}
+.backdarkspan{
+    color:white;
+    padding:0 1.5em;
 }
 /* FIN RELATIF A LA PAGE TEST - INUTIL AU RESTE*/
 
@@ -14,6 +22,8 @@
             border-radius: 5px;
             padding:0.2rem 1rem;
             font-size: 1.5rem;
+            max-width:12rem;
+            text-align: center;
         }
         a.button1:hover{
             color:black;
