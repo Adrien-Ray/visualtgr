@@ -1,0 +1,25 @@
+/* general */
+.navBar{
+    background-color: #131910 !important;
+}
+/* fin general */
+/* button1 */
+a.navBar__button1{
+    color:#ea7235 !important;
+    border: 2px solid #ff5600;
+    border-radius: 5px;
+    padding:0.2rem 5rem;
+    font-size: 1.5rem;
+    max-width:12rem;
+    text-align: center;
+    margin-left: 1rem;
+}
+a.navBar__button1:hover{
+    color:black !important;
+    background-color: #ea7235;
+    border: 2px solid #ff5600;
+}
+/* fin button1 */
+.navBar__logo{
+    width:3rem;
+}
