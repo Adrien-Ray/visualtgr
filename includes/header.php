@@ -15,34 +15,25 @@
   <!-- debut navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light navBar">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../">
+      <a class="navbar-brand navBar__blocLogoTitle" href="../">
         <img src="../assets/images/logo.png" alt="" class="navBar__logo">
         <span class="navBar__title">VISUALTGR</span>
       </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+      <button class="navbar-toggler navBar__buttonHamburger" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <!-- <span class="navbar-toggler-icon"></span> -->
+        <img src="../assets/images/hamburger.png" alt="" class="navBar__imgHamburger">
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0 navBar__contentUl">
+          <li class="nav-item navBar__contentLi">
             <a class="nav-link navBar__button1" href="etienne.php">Acceuil</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item navBar__contentLi">
             <a class="nav-link navBar__button1" href="adrien.php" tabindex="-1" aria-disabled="true">A propos</a>
           </li>
         </ul>
-        <form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Search</button>
-        </form>
       </div>
     </div>
   </nav>
+  <img src="../assets/images/waves_header.svg" alt="" class="navBar__waves">
   <!-- fin navbar -->
-
-  <!-- efface, c'est le js boostrap qui est en fin de page -->
-
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
-  <script src="../assets/scripts/main.js"></script>
-
-  <!-- fin de: efface, c'est le js boostrap qui est en fin de page -->

@@ -1,8 +1,15 @@
+
 /* general */
 .navBar{
     background-color: #131910 !important;
 }
 /* fin general */
+.navBar__contentUl{
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+}
+
 /* button1 */
 a.navBar__button1{
     color:#ea7235 !important;
@@ -12,7 +19,8 @@ a.navBar__button1{
     font-size: 1.5rem;
     max-width:12rem;
     text-align: center;
-    margin-left: 1rem;
+    margin-top:10px;
+    margin-right:1rem;
 }
 a.navBar__button1:hover{
     color:black !important;
@@ -20,6 +28,28 @@ a.navBar__button1:hover{
     border: 2px solid #ff5600;
 }
 /* fin button1 */
+.navBar__blocLogoTitle{
+    display:flex;
+}
 .navBar__logo{
-    width:3rem;
+    height:4rem;
+}
+.navBar__title{
+    color:#ff5600;
+    padding-left: 1rem;
+    font-size: 1.7rem;
+    letter-spacing: -5px;
+    font-family: 'pixeloperator8';
+    position:relative;
+    top: 0.5rem;
+}
+.navBar__buttonHamburger{
+    padding:0;
+    margin: 0;
+}
+.navBar__imgHamburger{
+    height:3.8rem;
+}
+.navBar__waves{
+    width:100%;
 }
