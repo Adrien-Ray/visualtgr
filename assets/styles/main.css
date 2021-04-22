@@ -1,19 +1,32 @@
 @font-face {
-    font-family: 'pixeloperator';
-    src: url('PixelOperator.ttf');
-  }
-  @font-face {
-    font-family: 'pixeloperator8';
-    src: url('PixelOperator8.ttf');
-  }
-  @font-face {
-    font-family: 'pixeloperatorbold';
-    src: url('PixelOperator-Bold.ttf');
-  }
-body{
-    font-family: 'pixeloperator';
-    margin: 0;
+  font-family: "pixeloperator";
+  src: url("PixelOperator.ttf");
 }
-a{
-    text-decoration: none;
+@font-face {
+  font-family: "pixeloperator8";
+  src: url("PixelOperator8.ttf");
+}
+@font-face {
+  font-family: "pixeloperatorbold";
+  src: url("PixelOperator-Bold.ttf");
+}
+body {
+  font-family: "pixeloperator";
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+
+.card_title--modificateur {
+  color: #ff5600;
+  font-family: "pixeloperator8";
+}
+
+.card_text--modificateur {
+  color: #ea7235;
+  font-family: "pixeloperator";
+}
+.card-body-child {
+  background-color: #131910;
 }
