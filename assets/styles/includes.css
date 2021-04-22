@@ -1,9 +1,27 @@
+
+/* MET VERS MAIN */
+body{
+    background-color: #191b18;
+    overflow-x: hidden;
+}
+/* FIN MET VERS MAIN */
+
 /*******************************
 ********** HEADER *************
 *******************************/
+.fixtop{
+    position:fixed;
+    top:20px;
+    right:0px;
+    z-index: 1;
+}
+.fixtop__img{
+    width:50px;
+}
 /* general */
 .navBar{
     background-color: #131910 !important;
+    z-index: 2;
 }
 /* fin general */
 .navBar__contentUl{
@@ -60,7 +78,24 @@ a.navBar__button1:hover{
 *******************************/
 
 .footerRectangle{
-    padding: 6rem;
-    padding-top: 0rem;
     background-color: #131910;
 }
+.footerRectangle__p{
+    padding:10rem 0;
+    text-align:center;
+    color:#ea7235;
+    font-size:1.5rem;
+    word-spacing: 1rem;
+    margin:0;
+}
+.footerRectangle__p a{
+    color:#ea7235;
+}
+.footerRectangle__p a:hover{
+    color:#ff5600;
+}
+.footerRectangle__pspan{
+    display:block;
+    font-size:2rem;
+}
+

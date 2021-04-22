@@ -5,7 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+    <link rel="shortcut icon" href="../assets/images/logo.png" type="image/x-icon">
+    <title>Visualtgr</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
   <link rel="stylesheet" href="../assets/styles/main.css">
   <link rel="stylesheet" href="../assets/styles/includes.css">
@@ -13,7 +14,7 @@
 
 <body>
   <!-- debut navbar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-light navBar">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light navBar" id="hautpage">
     <div class="container-fluid">
       <a class="navbar-brand navBar__blocLogoTitle" href="../">
         <img src="../assets/images/logo.png" alt="" class="navBar__logo">
@@ -37,3 +38,8 @@
   </nav>
   <img src="../assets/images/waves_header.svg" alt="" class="navBar__waves">
   <!-- fin navbar -->
+  <!-- debut fixtop -->
+  <div class="fixtop">
+    <a href="#hautpage"><img src="../assets/images/flech-haut.png" alt="" class="fixtop__img" title="haut de page"></a>
+  </div>
+  <!-- fin fixtop -->

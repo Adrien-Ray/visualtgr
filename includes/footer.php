@@ -1,13 +1,16 @@
 
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div class="footer">
   <img src="../assets/images/waves_footer.svg" alt="" class="navBar__waves">
   <div class="footerRectangle">
-    
+    <p class="footerRectangle__p">
+      <span class="footerRectangle__pspan"><a href="#hautpage">retour en haut de page</a></span>
+      <a href="#">Contact</a> * <a href="#">Credits</a> * <a href="#">Blog_original</a>
+    </p>
   </div>
 </div>
-
 
 
 
