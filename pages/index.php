@@ -15,6 +15,8 @@
                             Le développeur rédige le code informatique d’un produit / site / programme répondant aux exigences du cahier des charges rédigé par le chef de projet en fonction des exigences du client et des besoins fonctionnels.
                             Il analyse les besoins, choisit la solution technique la mieux adaptée et développe les fonctionnalités du site web ou de l’application web de sa phase d’étude à son intégration.
 
+                            <img src="../assets/images/fleche.png" class="fleche-modification" alt="fleche.png">
+
 
                     </div>
                 </div>
@@ -61,9 +63,9 @@
 
                             <h5 class="card-title card_title--modificateur">Les Tutos rigolo</h5>
 
-                                <p class="card-text card_text--modificateur ">Tuto rigolo # 1 animé un bouton sur Figma en 2min40. Pourquoi les animations sur Figma sont essentiels ? D’une part cela permet de rendre votre maquette plus réaliste, et d’autre part, de vous rendre compte de ce qui va et de ce qui ne va pas. Ici rien de bien sorcier, en quelque clics de souri, vous arriverez a faire un truc plutôt sympa et qui vous servira quoi que vous fassiez. Bon visionnage .</p>
+                            <p class="card-text card_text--modificateur ">Tuto rigolo # 1 animé un bouton sur Figma en 2min40. Pourquoi les animations sur Figma sont essentiels ? D’une part cela permet de rendre votre maquette plus réaliste, et d’autre part, de vous rendre compte de ce qui va et de ce qui ne va pas. Ici rien de bien sorcier, en quelque clics de souri, vous arriverez a faire un truc plutôt sympa et qui vous servira quoi que vous fassiez. Bon visionnage .</p>
 
-                                <button class="btn-btn-primary section_button-1" type="submit">flex</button>
+                            <button class="btn-btn-primary section_button-1" type="submit">flex</button>
                         </div>
                     </div>
                     <div class="col-md-7 ">
@@ -150,4 +152,4 @@
 
 </div>
 
-    <?php include "../includes/footer.php"; ?>
+<?php include "../includes/footer.php"; ?>
