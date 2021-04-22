@@ -1,6 +1,5 @@
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div class="footer">
   <img src="../assets/images/waves_footer.svg" alt="" class="navBar__waves">
