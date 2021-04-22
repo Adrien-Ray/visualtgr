@@ -1,8 +1,8 @@
 <?php include "../includes/header.php"; ?>
 
 <div class="container">
+    <!--  Première section -->
     <div class="row">
-        <!--  Première section -->
         <div class="card mb-3 card-body-child" style="max-width: 1296px;">
             <div class="row g-0">
                 <div class="col-md-6">
@@ -53,37 +53,30 @@
     <!-- troième section -->
     <div class="container-fluid">
         <div class="row">
-            <div class="card mb-3 card-body-child " style="max-width: 540px;">
+            <div class="card mb-3 card-body-child" style="max-width: 1296px;">
                 <div class="row g-0 ">
-                    <div class="col-md-8 ">
+                    <div class="col-md-5 ">
                         <div class="card-body ">
 
 
-                            <h5 class="card-title card_title--modificateur">Les Tutos rigolo
-                                </h2>
+                            <h5 class="card-title card_title--modificateur">Les Tutos rigolo</h5>
 
-                                <p class="card-text card_text--modificateur ">Tuto rigolo # 1 animé un bouton sur Figma en 2min40
+                                <p class="card-text card_text--modificateur ">Tuto rigolo # 1 animé un bouton sur Figma en 2min40. Pourquoi les animations sur Figma sont essentiels ? D’une part cela permet de rendre votre maquette plus réaliste, et d’autre part, de vous rendre compte de ce qui va et de ce qui ne va pas. Ici rien de bien sorcier, en quelque clics de souri, vous arriverez a faire un truc plutôt sympa et qui vous servira quoi que vous fassiez. Bon visionnage .</p>
 
-                                    Pourquoi les animations sur Figma sont essentiels ? D’une part cela permet de rendre votre maquette plus réaliste, et d’autre part, de vous rendre compte de ce qui va et de ce qui ne va pas.
-
-                                    Ici rien de bien sorcier, en quelque clics de souri, vous arriverez a faire un truc plutôt sympa et qui vous servira quoi que vous fassiez.
-
-                                    Bon visionnage .</p>
-
-                                <button class="btn-btn-primary section_button-1" type="submit">flex
-
-                                </button>
+                                <button class="btn-btn-primary section_button-1" type="submit">flex</button>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-7 ">
 
-                        <img src="../assets/images/image-3.jpg " class="horizontal-card-img" alt=" image-3.jpg">
+                        <img src="../assets/images/image-3.jpg" class="horizontal-card-img" alt="img-2.jpg">
 
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
+
 
 
 
@@ -119,23 +112,6 @@
         </div>
     </div>
 
-    <!-- 
-    
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-12 col-sm-4 cardVertical">
-
-            </div>
-            <div class="col-md-12 col-sm-4 cardVertical">
-                
-            </div>
-            <div class="col-md-12 col-sm-4 cardVertical">
-                
-            </div>
-        </div>
-    </div> -->
-
-
 
 
 
@@ -154,16 +130,17 @@
 
 
     <!-- Septième section -->
-    <div class="container-fluid">
-        <div class="card mb-3 card-body-child" style="max-width: 540px;">
+    <div class="row">
+        <div class="card mb-3 card-body-child" style="max-width: 1296px;">
             <div class="row g-0">
                 <div class="col-md-6">
-                    <img src="../assets/images/matrix.png" class="horizontal-card-img" alt=" matrix.png">
+                    <img src="../assets/images/matrix.png" class="horizontal-card-img" alt="image-8.png">
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 card-body-child">
                     <div class="card-body">
                         <h5 class="card-title card_title--modificateur">la Cryptographie ou l’art du secret.</h5>
-                        <p class="card-text card_text--modificateur">La cryptographie regroupe les disciplines ayant pour but de rechercher des moyens d’assurer la protection de données. cela inclu: la confidentialitée: empêcher la lecture d’un message par une personne non-autorisée. l’authenticitée: permettre de « signer » un message pour assurer qu’il est…
+                        <p class="card-text card_text--modificateur">La cryptographie regroupe les disciplines ayant pour but de rechercher des moyens d’assurer la protection de données. cela inclu: la confidentialitée: empêcher la lecture d’un message par une personne non-autorisée. l’authenticitée: permettre de « signer » un message pour assurer qu’il est…</p>
+
 
                     </div>
                 </div>
@@ -171,19 +148,6 @@
         </div>
     </div>
 
-
-
-
-
-
-
-    <!-- <div class="card mb-3 guideline" style="max-width: 1000px;">
-    <div class="row g-0 guideline">
-        <div class="col-md-6 guideline">
-            <div class="card-body guideline">
-                <p class="subtitle guideline">INGENIEUR DIETER WEISS </p>
-
-                <h2 class="card-title guideline">
-                    Ingenieurbûro fûr Bau- und Vermessungswesen</h2> -->
 </div>
-<?php include "../includes/footer.php"; ?>
+
+    <?php include "../includes/footer.php"; ?>
