@@ -38,9 +38,7 @@
 
                                 <p class="card-text card_text--modificateur ">Dans un premier temps nous allons voir ensemble la commande «ls ». Elle sert à explorer le contenue du dossier dans lequel vous vous trouvez. La commande ls sert aussi à explorer un dossier définit. ls /nom du dossier. Découvrons maintenant…</p>
 
-                                <button class="btn-btn-primary section_button-1" type="submit">flex
-
-                                </button>
+                                <img src="../assets/images/fleche.png" class="fleche-modification" alt="fleche.png">
                         </div>
                     </div>
                     <div class="col-md-7 ">
@@ -65,7 +63,7 @@
 
                             <p class="card-text card_text--modificateur ">Tuto rigolo # 1 animé un bouton sur Figma en 2min40. Pourquoi les animations sur Figma sont essentiels ? D’une part cela permet de rendre votre maquette plus réaliste, et d’autre part, de vous rendre compte de ce qui va et de ce qui ne va pas. Ici rien de bien sorcier, en quelque clics de souri, vous arriverez a faire un truc plutôt sympa et qui vous servira quoi que vous fassiez. Bon visionnage .</p>
 
-                            <button class="btn-btn-primary section_button-1" type="submit">flex</button>
+                            <img src="../assets/images/fleche.png" class="fleche-modification" alt="fleche.png">
                         </div>
                     </div>
                     <div class="col-md-7 ">
@@ -92,6 +90,11 @@
                     <h5 class="card-title card_title--modificateur">CSS FLEXBOX</h5>
                     <p class="card-text card_text--modificateur ">Les flexbox qu’est ce que c’est ? Le module des boîtes flexibles, aussi appelé « flexbox », a été conçu comme un modèle de disposition unidimensionnel et comme une méthode permettant de distribuer l’espace entre des objets d’une interface ainsi que de…</p>
 
+                    <img src="../assets/images/fleche.png" class="fleche-vertical" alt="fleche.png">
+
+
+
+
                 </div>
             </div>
             <!-- cinquième section -->
@@ -100,6 +103,9 @@
                 <div class="card-body">
                     <h5 class="card-title card_title--modificateur">Le CSS</h5>
                     <p class="card-text card-text card_text--modificateur">Une fois notre page HTML rédigée, nous avons besoin de lui donner forme avec des styles CSS propres à chaque élément. Voyons comment « parler » au CSS pour lui expliquer quel élément HTML il doit modifier et dans quelles circonstances. /*…</p>
+
+                    <img src="../assets/images/fleche.png" class="fleche-modification" alt="fleche.png">
+
 
                 </div>
             </div>
