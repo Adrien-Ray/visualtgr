@@ -68,3 +68,12 @@ a {
   position:absolute;
   right:0;
 }
+/* PAGES ARTICLES ET CREDITS */
+.content{
+  color:#ea7235;
+  background-color: #131910;
+  padding:3rem;
+}
+.content h1,.content h2,.content h3{
+  color: #ff5600;
+}
