@@ -14,7 +14,7 @@
 body {
   font-family: "pixeloperator";
   margin: 0;
-  font-size:1.2rem;
+  font-size:1.3rem;
 }
 a {
   text-decoration: none;
@@ -71,9 +71,27 @@ a {
 /* PAGES ARTICLES ET CREDITS */
 .content{
   color:#ea7235;
-  background-color: #131910;
   padding:3rem;
 }
 .content h1,.content h2,.content h3{
   color: #ff5600;
+  padding-top:2rem;
+}
+.content p,.content ul{
+  padding:2rem 0;
+  margin-top:2rem;
+}
+.content__darkBack{
+  background-color: #131910;
+  padding:0 5%;
+}
+.content p.img{
+  text-align:center;
+  background:transparent;
+  margin: 0;
+  padding: 0;
+  margin-top:2em;
+}
+.content img{
+  max-width: 100%;
 }
