@@ -52,9 +52,9 @@
     <!-- troième section -->
     <div class="container-fluid">
         <div class="row">
-            <div class="card mb-3  " style="max-width: 540px;">
+            <div class="card mb-3 card-body-child " style="max-width: 540px;">
                 <div class="row g-0 ">
-                    <div class="col-md-5 ">
+                    <div class="col-md-8 ">
                         <div class="card-body ">
 
 
@@ -74,7 +74,7 @@
                                 </button>
                         </div>
                     </div>
-                    <div class="col-md-7 ">
+                    <div class="col-md-4 ">
 
                         <img src="../assets/images/image-3.jpg" alt="image-3.jpg">
 
@@ -85,7 +85,7 @@
     </div>
     <!-- Quatrième section -->
     <div class="container-fluid">
-    <div class="row">
+        <div class="row">
             <div class="card-group">
                 <div class="card cardVertical">
                     <img src="../assets/images/flex-box.png" class=" card-img-top" alt="...">
@@ -96,45 +96,45 @@
                     </div>
                 </div>
                 <!-- cinquième section -->
-                    <div class="card cardVertical">
-                        <img src="../assets/images/css.png" class="card-img-top" alt="css.png">
-                        <div class="card-body">
-                            <h5 class="card-title card_title--modificateur">Le CSS</h5>
-                            <p class="card-text card-text card_text--modificateur">Une fois notre page HTML rédigée, nous avons besoin de lui donner forme avec des styles CSS propres à chaque élément. Voyons comment « parler » au CSS pour lui expliquer quel élément HTML il doit modifier et dans quelles circonstances. /*…</p>
-
-                        </div>
-                    </div>
-                    <!-- sixième section -->
-                        <div class="card cardVertical">
-                            <img src="../assets/images/media-queries.jpg" class="card-img-top" alt="media-queries.jpg">
-                            <div class="card-body">
-                                <h5 class="card-title card_title--modificateur">Le Media-queries</h5>
-                                <p class="card-text card_text--modificateur">Les requêtes média (media queries) permettent de modifier l’apparence d’un site ou d’une application en fonction du type d’appareil (impression ou écran par exemple) et de ses caractéristiques (la résolution d’écran ou la largeur de la zone d’affichage (viewport) par…</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    </div>
-    <!-- Septième section -->
-    <div class="container-fluid">
-        <div class="card mb-3" style="max-width: 540px;">
-            <div class="row g-0">
-                <div class="col-md-6">
-                    <img src="../assets/images/matrix.png" alt="matrix.png">
-                </div>
-                <div class="col-md-6">
+                <div class="card cardVertical">
+                    <img src="../assets/images/css.png" class="card-img-top" alt="css.png">
                     <div class="card-body">
-                        <h5 class="card-title card_title--modificateur">la Cryptographie ou l’art du secret.</h5>
-                        <p class="card-text card_text--modificateur">La cryptographie regroupe les disciplines ayant pour but de rechercher des moyens d’assurer la protection de données. cela inclu: la confidentialitée: empêcher la lecture d’un message par une personne non-autorisée. l’authenticitée: permettre de « signer » un message pour assurer qu’il est…
+                        <h5 class="card-title card_title--modificateur">Le CSS</h5>
+                        <p class="card-text card-text card_text--modificateur">Une fois notre page HTML rédigée, nous avons besoin de lui donner forme avec des styles CSS propres à chaque élément. Voyons comment « parler » au CSS pour lui expliquer quel élément HTML il doit modifier et dans quelles circonstances. /*…</p>
 
+                    </div>
+                </div>
+                <!-- sixième section -->
+                <div class="card cardVertical">
+                    <img src="../assets/images/media-queries.jpg" class="card-img-top" alt="media-queries.jpg">
+                    <div class="card-body">
+                        <h5 class="card-title card_title--modificateur">Le Media-queries</h5>
+                        <p class="card-text card_text--modificateur">Les requêtes média (media queries) permettent de modifier l’apparence d’un site ou d’une application en fonction du type d’appareil (impression ou écran par exemple) et de ses caractéristiques (la résolution d’écran ou la largeur de la zone d’affichage (viewport) par…</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
+</div>
+</div>
+<!-- Septième section -->
+<div class="container-fluid">
+    <div class="card mb-3" style="max-width: 540px;">
+        <div class="row g-0">
+            <div class="col-md-6">
+                <img src="../assets/images/matrix.png" alt="matrix.png">
+            </div>
+            <div class="col-md-6">
+                <div class="card-body">
+                    <h5 class="card-title card_title--modificateur">la Cryptographie ou l’art du secret.</h5>
+                    <p class="card-text card_text--modificateur">La cryptographie regroupe les disciplines ayant pour but de rechercher des moyens d’assurer la protection de données. cela inclu: la confidentialitée: empêcher la lecture d’un message par une personne non-autorisée. l’authenticitée: permettre de « signer » un message pour assurer qu’il est…
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -142,7 +142,7 @@
 
 
 
-    <!-- <div class="card mb-3 guideline" style="max-width: 1000px;">
+<!-- <div class="card mb-3 guideline" style="max-width: 1000px;">
     <div class="row g-0 guideline">
         <div class="col-md-6 guideline">
             <div class="card-body guideline">
@@ -150,4 +150,4 @@
 
                 <h2 class="card-title guideline">
                     Ingenieurbûro fûr Bau- und Vermessungswesen</h2> -->
-    <?php include "../includes/footer.php"; ?>
+<?php include "../includes/footer.php"; ?>

@@ -30,13 +30,17 @@ a {
 .card-body-child {
   background-color: #131910;
 }
-.cardVertical{
+.cardVertical {
   background-color: #131911;
   border: 2px solid green;
-  padding:2rem;
+  padding: 2rem;
   min-width: 300px;
 }
-.cardVertical img{
-  max-width:400px;
+.cardVertical img {
+  max-width: 400px;
   margin-bottom: 3em;
+}
+
+.card-img {
+  margin-left: 2rem;
 }
