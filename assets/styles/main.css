@@ -50,6 +50,11 @@ a {
 .horizontal-card-img {
   max-width: 500px;
 }
-.fleche-modification {
-  max-width: 100px;
+.flech{
+  position: relative;
+}
+.flech__img {
+  width: 100px;
+  position:absolute;
+  right:0;
 }
