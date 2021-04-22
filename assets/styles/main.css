@@ -32,15 +32,17 @@ a {
 }
 .cardVertical {
   background-color: #131911;
-  border: 2px solid green;
-  padding: 2rem;
+  padding:2rem;
+  margin:2rem;
   min-width: 300px;
 }
 .cardVertical img {
   max-width: 400px;
   margin-bottom: 3em;
 }
-
+.containerVertical{
+  margin-bottom: 2rem;
+}
 .card-img {
   margin-left: 2rem;
 }
