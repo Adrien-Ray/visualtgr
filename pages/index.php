@@ -6,7 +6,7 @@
         <div class="card mb-3 card-body-child" style="max-width: 1296px;">
             <div class="row g-0">
                 <div class="col-md-6">
-                    <img src="../assets/images/image-8.png" alt="image-8.png">
+                    <img src="../assets/images/image-8.png" class="horizontal-card-img" alt="image-8.png">
                 </div>
                 <div class="col-md-6 card-body-child">
                     <div class="card-body">
@@ -21,7 +21,7 @@
             </div>
         </div>
     </div>
-</div>
+
     <!-- Deuxime section -->
     <div class="container-fluid">
         <div class="row">
@@ -43,7 +43,7 @@
                     </div>
                     <div class="col-md-7 ">
 
-                        <img src="../assets/images/img-2.jpg" alt="img-2.jpg">
+                        <img src="../assets/images/img-2.jpg" class="horizontal-card-img" alt="img-2.jpg">
 
                     </div>
                 </div>
@@ -75,9 +75,9 @@
                                 </button>
                         </div>
                     </div>
-                    <div class="col-md-4 ">
+                    <div class="col-md-4">
 
-                        <img src="../assets/images/image-3.jpg" alt="image-3.jpg">
+                        <img src="../assets/images/image-3.jpg " class="horizontal-card-img" alt=" image-3.jpg">
 
                     </div>
                 </div>
@@ -119,7 +119,7 @@
         </div>
     </div>
 
-<!-- 
+    <!-- 
     
     <div class="container-fluid">
         <div class="row">
@@ -155,10 +155,10 @@
 
     <!-- Septième section -->
     <div class="container-fluid">
-        <div class="card mb-3" style="max-width: 540px;">
+        <div class="card mb-3 card-body-child" style="max-width: 540px;">
             <div class="row g-0">
                 <div class="col-md-6">
-                    <img src="../assets/images/matrix.png" alt="matrix.png">
+                    <img src="../assets/images/matrix.png" class="horizontal-card-img" alt=" matrix.png">
                 </div>
                 <div class="col-md-6">
                     <div class="card-body">
@@ -185,4 +185,5 @@
 
                 <h2 class="card-title guideline">
                     Ingenieurbûro fûr Bau- und Vermessungswesen</h2> -->
-    <?php include "../includes/footer.php"; ?>
+</div>
+<?php include "../includes/footer.php"; ?>

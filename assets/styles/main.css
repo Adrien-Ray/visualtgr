@@ -29,20 +29,24 @@ a {
 }
 .card-body-child {
   background-color: #131910;
+  padding: 2rem;
 }
 .cardVertical {
   background-color: #131911;
-  padding:2rem;
-  margin:2rem;
+  padding: 2rem;
+  margin: 2rem;
   min-width: 300px;
 }
 .cardVertical img {
   max-width: 400px;
   margin-bottom: 3em;
 }
-.containerVertical{
+.containerVertical {
   margin-bottom: 2rem;
 }
 .card-img {
   margin-left: 2rem;
+}
+.horizontal-card-img {
+  max-width: 400px;
 }
