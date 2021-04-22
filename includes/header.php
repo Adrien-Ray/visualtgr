@@ -27,10 +27,10 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0 navBar__contentUl">
           <li class="nav-item navBar__contentLi">
-            <a class="nav-link navBar__button1" href="etienne.php">Acceuil</a>
+            <a class="nav-link navBar__button1" href="../">Acceuil</a>
           </li>
           <li class="nav-item navBar__contentLi">
-            <a class="nav-link navBar__button1" href="adrien.php" tabindex="-1" aria-disabled="true">A propos</a>
+            <a class="nav-link navBar__button1" href="credits.php" tabindex="-1" aria-disabled="true">A propos</a>
           </li>
         </ul>
       </div>

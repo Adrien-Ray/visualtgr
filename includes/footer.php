@@ -6,7 +6,7 @@
   <div class="footerRectangle">
     <p class="footerRectangle__p">
       <span class="footerRectangle__pspan"><a href="#hautpage">retour en haut de page</a></span>
-      <a href="#">Contact</a> * <a href="#">Credits</a> * <a href="#">Blog_original</a>
+      <a href="credits.php">Contact</a> * <a href="credits.php">Credits</a> * <a href="https://promo-68.codeur.online/blog/">Blog_original</a>
     </p>
   </div>
 </div>

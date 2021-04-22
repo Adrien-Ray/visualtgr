@@ -1,3 +1,4 @@
+/* GENERAL */
 @font-face {
   font-family: "pixeloperator";
   src: url("PixelOperator.ttf");
@@ -13,11 +14,12 @@
 body {
   font-family: "pixeloperator";
   margin: 0;
+  font-size:1.2rem;
 }
 a {
   text-decoration: none;
 }
-
+/* CONTENT */
 .card_title--modificateur {
   color: #ff5600;
   font-family: "pixeloperator8";
@@ -31,14 +33,20 @@ a {
   background-color: #131910;
   padding: 2rem;
 }
+.card-group{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
 .cardVertical {
   background-color: #131911;
   padding: 2rem;
-  margin: 2rem;
-  min-width: 300px;
+  min-width: 250px;
+  margin:0.5rem;
 }
 .cardVertical img {
-  max-width: 400px;
+  max-width: 350px;
+  width: 100%;
   margin-bottom: 3em;
 }
 .containerVertical {
@@ -48,13 +56,15 @@ a {
   margin-left: 2rem;
 }
 .horizontal-card-img {
-  max-width: 500px;
+  width: 500px;
+  max-width: 100%;
 }
 .flech{
   position: relative;
+  margin-bottom: 3rem;
 }
 .flech__img {
-  width: 100px;
+  width: 100px !important;
   position:absolute;
   right:0;
 }
