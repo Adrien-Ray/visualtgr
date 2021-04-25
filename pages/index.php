@@ -6,7 +6,7 @@
         <div class="card mb-3 card-body-child" style="max-width: 1296px;">
             <div class="row g-0">
                 <div class="col-md-6">
-                    <img src="../assets/images/image-8.png" class="horizontal-card-img" alt="image-8.png">
+                    <a href="art1.php"><img src="../assets/images/image-8.png" class="horizontal-card-img" alt="image-8.png"></a>
                 </div>
                 <div class="col-md-6 card-body-child">
                     <div class="card-body">
@@ -44,7 +44,7 @@
                     </div>
                     <div class="col-md-7 ">
 
-                        <img src="../assets/images/img-2.jpg" class="horizontal-card-img" alt="img-2.jpg">
+                    <a href="art2.php"><img src="../assets/images/img-2.jpg" class="horizontal-card-img" alt="img-2.jpg"></a>
 
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                     </div>
                     <div class="col-md-7 ">
 
-                        <img src="../assets/images/image-3.jpg" class="horizontal-card-img" alt="tuto rigolo">
+                    <a href="art3.php"><img src="../assets/images/image-3.jpg" class="horizontal-card-img" alt="tuto rigolo"></a>
 
                     </div>
                 </div>
@@ -87,7 +87,7 @@
         <div class="row card-group">
             <!-- Quatrième section -->
             <div class="card cardVertical">
-                <img src="../assets/images/flex-box.png" class=" card-img-top" alt="...">
+            <a href="art4.php"><img src="../assets/images/flex-box.png" class=" card-img-top" alt="..."></a>
                 <div class="card-body">
                     <h5 class="card-title card_title--modificateur">CSS FLEXBOX</h5>
                     <p class="card-text card_text--modificateur ">Les flexbox qu’est ce que c’est ? Le module des boîtes flexibles, aussi appelé « flexbox », a été conçu comme un modèle de disposition unidimensionnel et comme une méthode permettant de distribuer l’espace entre des objets d’une interface ainsi que de…</p>
@@ -102,7 +102,7 @@
             </div>
             <!-- cinquième section -->
             <div class="card cardVertical">
-                <img src="../assets/images/css.png" class="card-img-top" alt="css.png">
+            <a href="art5.php"><img src="../assets/images/css.png" class="card-img-top" alt="css.png"></a>
                 <div class="card-body">
                     <h5 class="card-title card_title--modificateur">Le CSS</h5>
                     <p class="card-text card-text card_text--modificateur">Une fois notre page HTML rédigée, nous avons besoin de lui donner forme avec des styles CSS propres à chaque élément. Voyons comment « parler » au CSS pour lui expliquer quel élément HTML il doit modifier et dans quelles circonstances. /*…</p>
@@ -115,7 +115,7 @@
             </div>
             <!-- sixième section -->
             <div class="card cardVertical">
-                <img src="../assets/images/media-queries.png" class="card-img-top" alt="media-queries.jpg">
+            <a href="art6.php"><img src="../assets/images/media-queries.png" class="card-img-top" alt="media-queries.jpg"></a>
                 <div class="card-body">
                     <h5 class="card-title card_title--modificateur">Le Media-queries</h5>
                     <p class="card-text card_text--modificateur">Les requêtes média (media queries) permettent de modifier l’apparence d’un site ou d’une application en fonction du type d’appareil (impression ou écran par exemple) et de ses caractéristiques (la résolution d’écran ou la largeur de la zone d’affichage (viewport) par…</p>
@@ -150,7 +150,7 @@
         <div class="card mb-3 card-body-child" style="max-width: 1296px;">
             <div class="row g-0">
                 <div class="col-md-6">
-                    <img src="../assets/images/matrix.png" class="horizontal-card-img" alt="image-8.png">
+                <a href="art7.php"><img src="../assets/images/matrix.png" class="horizontal-card-img" alt="image-8.png"></a>
                 </div>
                 <div class="col-md-6 card-body-child">
                     <div class="card-body">
