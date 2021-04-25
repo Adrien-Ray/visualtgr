@@ -76,6 +76,10 @@ a {
   margin:4rem auto;
   max-width: 800px;
 }
+.content a{
+  color:#ea7235;
+  font-weight: bold;
+}
 .content h1,.content h2,.content h3{
   color: #ff5600;
   padding-top:2rem;
@@ -99,4 +103,7 @@ a {
 }
 .content img{
   max-width: 100%;
+}
+.content figure video{
+  width:100% !important;
 }
