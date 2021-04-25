@@ -7,19 +7,14 @@
             <br>
             <p class="img"><img src="../assets/images/art1.jpg" alt=""></p>
             <h2>Qu’est-ce qu’un développeur web ?</h2>
-            <div class="content__darkBack">
                 <p>Le développeur rédige le code informatique d’un produit / site / programme répondant aux exigences du cahier des charges rédigé par le chef de projet en fonction des exigences du client et des besoins fonctionnels.Il analyse les besoins, choisit la solution technique la mieux adaptée et développe les fonctionnalités du site web ou de l’application web de sa phase d’étude à son intégration.</p>
-            </div>
             <h2>Autres missions :</h2>
-            <div class="content__darkBack">
                 <ul>
                     <li>corriger les problèmes des projets développés sans interrompre le fonctionnement / assurer le support technique</li>
                     <li>former le client à la réception du site</li>
                     <li>rédiger notices et guides pour les utilisateurs</li>
                 </ul>
-            </div>
             <h2>Les catégories de développeur web</h2>
-            <div class="content__darkBack">
                 <h3>Développeur back-end :</h3>
                 <p>Il s’occupe de la programmation du côté du serveur : il crée le code et les programmes qui alimentent le serveur du site web, les bases de données et toutes les applications que contient le site internet. Il utilise les différents langages côté serveur :</p>
                 <ul>
@@ -54,9 +49,7 @@
                     <li>Adapter un site internet classique pour une application mobile</li>
                     <li>Créer une application mobile qui n’a pas de site internet existant.</li>
                 </ul>
-            </div>
             <h2>Qualités recherchées</h2>
-            <div class="content__darkBack">
                 <ul>
                     <li>polyvalence</li>
                     <li>autonomie</li>
@@ -65,14 +58,11 @@
                 </ul>
                 <h2>Où exerce t-on ces métiers ?</h2>
                 <p>Cette activité s’exerce au sein de sociétés de services, d’entreprises, de collectivités territoriales, d’entreprises publiques, en indépendant etc. Elle varie selon la taille de la structure (polyvalence, spécialisation en gestion du projet, programmation, recettes, etc.) et la responsabilité (développement, projet, etc). Le salaire est également fonction de ces différents paramètres. En moyenne, un développeur web junior peut percevoir une rémunération brute mensuelle de 2100 €. Mais certains atteignent les étoiles tels les développeurs de la Silicon Valley qui peuvent recevoir un salaire de 500 000 $ … cela laisse rêveur !</p>
-            </div>
             <h2>Pour en savoir +</h2>
-            <div class="content__darkBack">
                 <ul>
                     <li>https://www.opiiec.fr/metiers/83057</li>
                 </ul>
                 <p class="img"><img src="../assets/images/art-01-0.png" alt=""></p>
-            </div>
         </div>
     </div>
 </div>
