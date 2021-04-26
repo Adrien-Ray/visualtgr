@@ -67,10 +67,7 @@
                 <li>le webdoc de la cryptologie: https://www.ssi.gouv.fr/particulier/bonnes-pratiques/crypto-le-webdoc/cryptologie-art-ou-science-du-secret/</li>
                 <li>article wikipedia cryptologie: https://fr.wikipedia.org/wiki/Cryptologie</li>
             </ul>
-
         </div>
     </div>
 </div>
-
-
 <?php include "../includes/footer.php"; ?>
