@@ -88,11 +88,11 @@ a {
   padding:2rem 0;
   margin-top:2rem;
 }
+.content ul{
+  margin-left: 8%;
+}
 .content h3,.content p{
   padding-left:8%;
-}
-.content ul{
-  padding-left:12%;
 }
 .content p.img{
   text-align:center;
@@ -104,6 +104,17 @@ a {
 .content img{
   max-width: 100%;
 }
+.content img.logo{
+  max-width: 200px;
+}
+
 .content figure video{
   width:100% !important;
+}
+.content li{
+  display : list-item;
+  list-style-type: none;
+  border-left:6px solid #ea7235;
+  padding-left:5%;
+  margin-bottom:0.6rem;
 }
