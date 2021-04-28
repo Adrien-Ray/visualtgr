@@ -19,7 +19,7 @@ body {
 a {
   text-decoration: none;
 }
-/* CONTENT */
+/* CONTENT index */
 .card_title--modificateur {
   color: #ff5600;
   font-family: "pixeloperator8";
@@ -68,6 +68,15 @@ a {
   position:absolute;
   right:0;
 }
+  /* content-index-img-zoom */
+  .horizontal-card-img, .card-img-top{
+    transition-duration: 1s
+  }
+  .horizontal-card-img:hover, .card-img-top:hover{
+    /* filter:grayscale(100%); */
+    transform: scale(1.1) rotate(0.01turn);
+    transition-duration: 0.6s;
+  }
 /* PAGES ARTICLES ET CREDITS */
 .content{
   color:#ea7235;

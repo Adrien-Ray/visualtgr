@@ -31,8 +31,6 @@
                 <div class="row g-0 ">
                     <div class="col-md-5 ">
                         <div class="card-body ">
-
-
                             <h5 class="card-title card_title--modificateur">Se déplacer dans le terminal. Les bases.
                                 </h2>
 
@@ -77,27 +75,17 @@
             </div>
         </div>
     </div>
-
-
-
-
-
-
     <div class="container-fluid containerVertical">
         <div class="row card-group">
             <!-- Quatrième section -->
             <div class="card cardVertical">
-            <a href="art4.php"><img src="../assets/images/flex-box.png" class=" card-img-top" alt="..."></a>
+            <a href="art4.php"><img src="../assets/images/flex-box.png" class="card-img-top" alt="..."></a>
                 <div class="card-body">
                     <h5 class="card-title card_title--modificateur">CSS FLEXBOX</h5>
                     <p class="card-text card_text--modificateur ">Les flexbox qu’est ce que c’est ? Le module des boîtes flexibles, aussi appelé « flexbox », a été conçu comme un modèle de disposition unidimensionnel et comme une méthode permettant de distribuer l’espace entre des objets d’une interface ainsi que de…</p>
-                        <div class="flech">
-                            <a href="art4.php"><img src="../assets/images/fleche.png" class="flech__img" alt="fleche.png" title="lire l'article"></a>
-                        </div>
-
-
-
-
+                    <div class="flech">
+                        <a href="art4.php"><img src="../assets/images/fleche.png" class="flech__img" alt="fleche.png" title="lire l'article"></a>
+                    </div>
                 </div>
             </div>
             <!-- cinquième section -->
@@ -106,11 +94,9 @@
                 <div class="card-body">
                     <h5 class="card-title card_title--modificateur">Le CSS</h5>
                     <p class="card-text card-text card_text--modificateur">Une fois notre page HTML rédigée, nous avons besoin de lui donner forme avec des styles CSS propres à chaque élément. Voyons comment « parler » au CSS pour lui expliquer quel élément HTML il doit modifier et dans quelles circonstances. /*…</p>
-                        <div class="flech">
-                            <a href="art5.php"><img src="../assets/images/fleche.png" class="flech__img" alt="fleche.png" title="lire l'article"></a>
-                        </div>
-
-
+                    <div class="flech">
+                        <a href="art5.php"><img src="../assets/images/fleche.png" class="flech__img" alt="fleche.png" title="lire l'article"></a>
+                    </div>
                 </div>
             </div>
             <!-- sixième section -->
@@ -127,23 +113,6 @@
             </div>
         </div>
     </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     <!-- Septième section -->
     <div class="row">
