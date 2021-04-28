@@ -30,7 +30,7 @@
             <a class="nav-link navBar__button1" href="../">Acceuil</a>
           </li>
           <li class="nav-item navBar__contentLi">
-            <a class="nav-link navBar__button1" id="random">article random</a>
+            <a class="nav-link navBar__button1" href="#" id="random">article random</a>
           </li>
           <li class="nav-item navBar__contentLi">
             <a class="nav-link navBar__button1" href="credits.php" tabindex="-1" aria-disabled="true">A propos</a>
