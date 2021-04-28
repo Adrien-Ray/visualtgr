@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="../assets/images/logo.png" type="image/x-icon">
-    <title>Visualtgr</title>
+  <link rel="shortcut icon" href="../assets/images/logo.png" type="image/x-icon">
+  <title>Visualtgr</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
   <link rel="stylesheet" href="../assets/styles/main.css">
   <link rel="stylesheet" href="../assets/styles/includes.css">
@@ -28,6 +28,9 @@
         <ul class="navbar-nav me-auto mb-2 mb-lg-0 navBar__contentUl">
           <li class="nav-item navBar__contentLi">
             <a class="nav-link navBar__button1" href="../">Acceuil</a>
+          </li>
+          <li class="nav-item navBar__contentLi">
+            <a class="nav-link navBar__button1" id="random">article random</a>
           </li>
           <li class="nav-item navBar__contentLi">
             <a class="nav-link navBar__button1" href="credits.php" tabindex="-1" aria-disabled="true">A propos</a>
