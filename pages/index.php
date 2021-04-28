@@ -31,8 +31,7 @@
                 <div class="row g-0 ">
                     <div class="col-md-5 ">
                         <div class="card-body ">
-                            <h5 class="card-title card_title--modificateur">Se déplacer dans le terminal. Les bases.
-                                </h2>
+                            <h5 class="card-title card_title--modificateur">Se déplacer dans le terminal. Les bases.</h5>
 
                                 <p class="card-text card_text--modificateur ">Dans un premier temps nous allons voir ensemble la commande «ls ». Elle sert à explorer le contenue du dossier dans lequel vous vous trouvez. La commande ls sert aussi à explorer un dossier définit. ls /nom du dossier. Découvrons maintenant…</p>
                         <div class="flech">
