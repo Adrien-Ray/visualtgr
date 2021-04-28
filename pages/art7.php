@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12 col-sm-12 content">
-            <p class="img"><img src="../assets/images/matrix.png" class="card-img-top" alt="matrix.png"></p>
+            <p class="img"><img src="../assets/images/matrix.png" alt=""></p>
             <i>Photo de Markus Spiske provenant de Pexels</i>
             <h1>la Cryptographie ou l’art du secret</h1>
             <i>Adrien Raymond</i>
