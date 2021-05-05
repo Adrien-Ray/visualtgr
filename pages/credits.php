@@ -12,6 +12,9 @@
             <p>Ce site relaie des articles issus de <a href="https://promo-68.codeur.online/blog/" target="_blank" rel="noopener noreferrer">promo-68.codeur.online/blog/</a></p>
             <p>Ce site utilise la police d'écriture PixelOperator, sous licence <a href="../assets/styles/LICENSE.txt">Creative Commons</a></p>
             <p>Site héberger par <a href="https://www.onlineformapro.com/">onlineformapro</a>.</p>
+            <h2>Contact</h2>
+            <p><b>Adrien RAYMOND</b>: <a href="https://adrienr.promo-68.codeur.online">site web</a> - mail: a.raymond@codeur.online</p>
+            <p><b>Etienne ZASTKO</b>:  mail: e.zastko@codeur.online</p>
         </div>
     </div>
 </div>
