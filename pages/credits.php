@@ -13,8 +13,16 @@
             <p>Ce site utilise la police d'écriture PixelOperator, sous licence <a href="../assets/styles/LICENSE.txt">Creative Commons</a></p>
             <p>Site héberger par <a href="https://www.onlineformapro.com/">onlineformapro</a>.</p>
             <h2>Contact</h2>
-            <p><b>Adrien RAYMOND</b>: <a href="https://adrienr.promo-68.codeur.online">site web</a> - mail: a.raymond@codeur.online</p>
-            <p><b>Etienne ZASTKO</b>:  mail: e.zastko@codeur.online</p>
+            <p><b>Adrien RAYMOND</b>: <a href="https://adrienr.promo-68.codeur.online">site web</a></p>
+            <form action="">
+            <textarea name="" id="messagea" cols="30" rows="10" placeholder="composer votre message pour Adrien RAYMOND"></textarea><br>
+            <input class="submit" type="submit" value="envoyer par mail">
+            </form>
+            <p><b>Etienne ZASTKO</b>:</p>
+            <form action="">
+            <textarea name="" id="messagea" cols="30" rows="10" placeholder="composer votre message pour Etienne ZASTKO"></textarea><br>
+            <input class="submit" type="submit" value="envoyer par mail">
+            </form>
         </div>
     </div>
 </div>
