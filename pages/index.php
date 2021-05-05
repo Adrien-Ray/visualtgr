@@ -10,7 +10,7 @@
                 </div>
                 <div class="col-md-6 card-body-child">
                     <div class="card-body">
-                        <h5 class="card-title card_title--modificateur">Le métier de de developeur web</h5>
+                        <h5 class="card-title card_title--modificateur">Le métier de de dévelopeur web</h5>
                         <p class="card-text card_text--modificateur">Qu’est-ce qu’un développeur web ?
                             Le développeur rédige le code informatique d’un produit / site / programme répondant aux exigences du cahier des charges rédigé par le chef de projet en fonction des exigences du client et des besoins fonctionnels.
                             Il analyse les besoins, choisit la solution technique la mieux adaptée et développe les fonctionnalités du site web ou de l’application web de sa phase d’étude à son intégration.</p>
@@ -59,7 +59,7 @@
 
                             <h5 class="card-title card_title--modificateur">Les Tutos rigolo</h5>
 
-                            <p class="card-text card_text--modificateur ">Tuto rigolo # 1 animé un bouton sur Figma en 2min40. Pourquoi les animations sur Figma sont essentiels ? D’une part cela permet de rendre votre maquette plus réaliste, et d’autre part, de vous rendre compte de ce qui va et de ce qui ne va pas. Ici rien de bien sorcier, en quelque clics de souri, vous arriverez a faire un truc plutôt sympa et qui vous servira quoi que vous fassiez. Bon visionnage .</p>
+                            <p class="card-text card_text--modificateur ">Tuto rigolo # 1 animé un bouton sur Figma en 2min40. Pourquoi les animations sur Figma sont essentielles ? D’une part cela permet de rendre votre maquette plus réaliste, et d’autre part, de vous rendre compte de ce qui va et de ce qui ne va pas. Ici rien de bien sorcier, en quelque clics de souri, vous arriverez a faire un truc plutôt sympa et qui vous servira quoi que vous fassiez. Bon visionnage .</p>
                         <div class="flech">
                             <a href="art3.php"><img src="../assets/images/fleche.png" class="flech__img" alt="fleche.png" title="lire l'article"></a>
                         </div>
@@ -81,7 +81,7 @@
             <a href="art4.php"><img src="../assets/images/flex-box.png" class="card-img-top" alt="..."></a>
                 <div class="card-body">
                     <h5 class="card-title card_title--modificateur">CSS FLEXBOX</h5>
-                    <p class="card-text card_text--modificateur ">Les flexbox qu’est ce que c’est ? Le module des boîtes flexibles, aussi appelé « flexbox », a été conçu comme un modèle de disposition unidimensionnel et comme une méthode permettant de distribuer l’espace entre des objets d’une interface ainsi que de…</p>
+                    <p class="card-text card_text--modificateur ">Les flexbox qu’est-ce que c’est ? Le module des boîtes flexibles, aussi appelé « flexbox », a été conçu comme un modèle de disposition unidimensionnel et comme une méthode permettant de distribuer l’espace entre des objets d’une interface ainsi que de…</p>
                     <div class="flech">
                         <a href="art4.php"><img src="../assets/images/fleche.png" class="flech__img" alt="fleche.png" title="lire l'article"></a>
                     </div>
@@ -123,7 +123,7 @@
                 <div class="col-md-6 card-body-child">
                     <div class="card-body">
                         <h5 class="card-title card_title--modificateur">la Cryptographie ou l’art du secret.</h5>
-                        <p class="card-text card_text--modificateur">La cryptographie regroupe les disciplines ayant pour but de rechercher des moyens d’assurer la protection de données. cela inclu: la confidentialitée: empêcher la lecture d’un message par une personne non-autorisée. l’authenticitée: permettre de « signer » un message pour assurer qu’il est…</p>
+                        <p class="card-text card_text--modificateur">La cryptographie regroupe les disciplines ayant pour but de rechercher des moyens d’assurer la protection de données. Cela inclus: la confidentialité: empêcher la lecture d’un message par une personne non-autorisée. l’authenticité: permettre de « signer » un message pour assurer qu’il est…</p>
                         <div class="flech">
                             <a href="art7.php"><img src="../assets/images/fleche.png" class="flech__img" alt="fleche.png" title="lire l'article"></a>
                         </div>
