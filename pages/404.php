@@ -1,3 +1,5 @@
-<?php include "https://adrienr.promo-68.codeur.online/visualtgr/includes/header.php"; ?>
+<?php include "/home/adrienr/www/public/visualtgr/includes/header.php"; ?>
+<div class="col-md-12 col-sm-12 content">
 <h1>oups, cette page n'existe pas...</h1>
-<?php include "https://adrienr.promo-68.codeur.online/visualtgr/includes/footer.php"; ?>
+</div>
+<?php include "/home/adrienr/www/public/visualtgr/includes/footer.php"; ?>
