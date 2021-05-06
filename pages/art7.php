@@ -15,7 +15,7 @@
             </ul>
             <h2>vocabulaire</h2>
             <ul>
-                <li>CHIFFREMENT : remplacer les caractère d’un texte « en claire » par d’autre pour le rendre illisible.</li>
+                <li>CHIFFREMENT : remplacer les caractère d’un texte « en clair » par d’autre pour le rendre illisible.</li>
                 <li>CRYPTOSYSTEME : algorithme de chiffrement.</li>
                 <li>CRYPTANALISE : science de l’étude des messages chiffrées en vue de leur déchiffrement.</li>
                 <li>CRYPTOLOGIE : science regroupant la cryptographie et la cryptanalyse</li>

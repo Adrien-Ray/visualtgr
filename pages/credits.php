@@ -12,7 +12,7 @@
             <p>Ce site relaie des articles issus de <a href="https://promo-68.codeur.online/blog/" target="_blank" rel="noopener noreferrer">promo-68.codeur.online/blog/</a></p>
             <p>Ce site utilise la police d'écriture PixelOperator, sous licence <a href="../assets/styles/LICENSE.txt">Creative Commons</a></p>
             <p>Site héberger par <a href="https://www.onlineformapro.com/">Onlineformapro</a>.</p>
-            <h2>Contact</h2>
+            <h2 id="contact">Contact</h2>
             <p><b>Adrien RAYMOND</b>: <a href="https://adrienr.promo-68.codeur.online">site web</a></p>
             <form action="">
             <textarea name="" id="messagea" cols="30" rows="10" placeholder="composer votre message pour Adrien RAYMOND"></textarea><br>
