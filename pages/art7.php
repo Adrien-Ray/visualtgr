@@ -34,11 +34,11 @@
             <h2>Analyste en sécurité</h2>
             <p>vérifie que les systèmes de sécurité d’une entreprise/d’un réseau fonctionnes et répondent aux standards actuels.</p>
             <h2>ingénieur en sécurité</h2>
-            <p>métier consistant a élaborer la sécuritée d’un réseau (proche de analyste en sécuritée, qui prend en quelque sorte la suite des opérations).</p>
+            <p>métier consistant a élaborer la sécurité d’un réseau (proche de analyste en sécurité, qui prend en quelque sorte la suite des opérations).</p>
             <h2>Consultant en sécurité</h2>
             <p>il s’agit fréquemment d’une personne/organisme extérieur qui donne des conseils, des recommandations et aide à la mise en place de ceux-ci.</p>
             <h2>Pentester</h2>
-            <p>Le pentesteur cherche des failles de sécuritée dans le but de les corrigé. en claire, il s’agit de faire le travail d’un pirate pour réglé les failles avant qu’un réel pirate ne les exploites. Le pentester est souvent confronté a la cryptographie, il peut être notament utile qu’il soit formé à la cryptanalyse. (voir Le Pentesteur ou le Corsaire des Hackers, sur la fiche wiliams.md)</p>
+            <p>Le pentesteur cherche des failles de sécurité dans le but de les corrigé. en claire, il s’agit de faire le travail d’un pirate pour réglé les failles avant qu’un réel pirate ne les exploites. Le pentester est souvent confronté a la cryptographie, il peut être notamment utile qu’il soit formé à la cryptanalyse. (voir Le Pentesteur ou le Corsaire des Hackers, sur la fiche wiliams.md)</p>
             <h2>technicien réseau</h2>
             <p>le technicien réseau peut être amené à gérer la sécurité des serveurs et des données échangées, il peut donc aussi lui être demandé d’avoir des compétences en cryptologie.</p>
             <h2>Cryptologue</h2>

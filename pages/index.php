@@ -10,7 +10,7 @@
                 </div>
                 <div class="col-md-6 card-body-child">
                     <div class="card-body">
-                        <h5 class="card-title card_title--modificateur">Le métier de de dévelopeur web</h5>
+                        <h5 class="card-title card_title--modificateur">Le métier de développeur web</h5>
                         <p class="card-text card_text--modificateur">Qu’est-ce qu’un développeur web ?
                             Le développeur rédige le code informatique d’un produit / site / programme répondant aux exigences du cahier des charges rédigé par le chef de projet en fonction des exigences du client et des besoins fonctionnels.
                             Il analyse les besoins, choisit la solution technique la mieux adaptée et développe les fonctionnalités du site web ou de l’application web de sa phase d’étude à son intégration.</p>
